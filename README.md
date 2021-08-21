@@ -6,21 +6,20 @@ Professora: Raquel Andrade
 ## Agenda 
 ## 21/08: Cronograma
 
-- **Manhã**: Autoconhecimento
-             Exercício de carreira
-             Curriculo
-             Linkedln - perfil de sucesso 
-             Redes sociais & Networking
+## Agenda 
+- Autoconhecimento
+- Currículo
+- Linkedln - perfil de sucesso
+- Redes sociais & Networking
+- Pitch
 
-- **Tarde**: Entrevista 
-             Pitch 
-             Storytelling 
-             Apresentação Pessoal
-             É hora de negociar
-             Curriculo - Reprograma
+- Storytelling
+- Apresentação Pessoal
+- É hora de negociar
+- Currículo - Reprograma        
 
 ## 25/08: Cronograma
 - **Quarta**: Finalizar currículo.
 
 ## 27/08: Cronograma
-- **Sexta**: Entrega Atividade.
+- **Sexta**: Entrega da atividade.

@@ -1,6 +1,7 @@
 # On12 | Back-End | 2021 | Semana 16 | Semana de Carreira 
- 
 Professora: Raquel Andrade
+
+<img src="https://i.ibb.co/481GVFq/Semana-de-Carreira-Reprograma.jpg" width="400" height="250" >
 
 ## Agenda 
 ## 21/08: Cronograma
@@ -23,5 +24,3 @@ Professora: Raquel Andrade
 
 ## 27/08: Cronograma
 - **Sexta**: Entrega Atividade.
-
-<img src="https://ibb.co/N9TPyFv" width="400" height="250" >

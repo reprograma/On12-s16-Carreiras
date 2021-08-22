@@ -51,7 +51,7 @@ Preencha o arquivo JSON com as seguintes informações:
 
 # Para realizar a atividade é necessário:
 
-1. NÃO é necessário fazer o fork, como atmbém NÃO trabalhar com branch. Apenas siga os comandos citados.
+1. NÃO fazer o fork, como também NÃO vamos trabalhar com branch. Apenas siga os comandos citados.
 2. Exercute o comando `git clone https://github.com/reprograma/On12-s16-Carreiras.git`
 8. Renomeie a pasta `students_json` e o arquivo `nome_sobrenome.json` (renomeie o arquivo com seu nome e sobrenome)
 9. Preencher o json com as suas informações e salvar o arquivo

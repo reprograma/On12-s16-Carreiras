@@ -1,5 +1,5 @@
 {
-  "nome_completo": "Seu Nome Completo",
+  "nome_completo": "Raquel dos Santos Andrade",
   "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
   "cidade_estado:": "São Paulo/SP",
   "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
@@ -18,6 +18,13 @@
       "periodo": "Jan/2017 a Dez/2018",
       "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
       "link": null
+    },
+    {
+      "cargo_funcao": "Projeto Voluntário",
+      "empresa": "Reprograma - Cliente Fulano",
+      "periodo": "Jan/2017 a Dez/2018",
+      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "link": "http://clientefulano.com.br"
     },
     {
       "cargo_funcao": "Projeto Voluntário",
@@ -55,7 +62,7 @@
   ],
   "no_que_me_destaco": [
     {
-      "habilidade_ferramenta": "HTML",
+      "habilidade_ferramenta": "Java",
       "pontuacao": 9
     },
     {
@@ -117,18 +124,6 @@
     {
       "habilidade_ferramenta": "MySQL",
       "pontuacao": 3
-    },
-    {
-      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
-      "pontuacao": 8
-    },
-    {
-      "habilidade_ferramenta": "FTP",
-      "pontuacao": 5
-    },
-    {
-      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
-      "pontuacao": 8
     },
     {
       "habilidade_ferramenta": "PHOTOSHOP",

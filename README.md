@@ -51,10 +51,17 @@ Preencha o arquivo JSON com as seguintes informações:
 
 # Para realizar a atividade é necessário:
 
-1. NÃO fazer o fork, como também NÃO vamos trabalhar com branch. Apenas siga os comandos citados.
-2. Exercute o comando `git clone https://github.com/reprograma/On12-s16-Carreiras.git`
+1. Forkar o respositório 
+2. Clonar o repositório (verifiquei se vc está copiando a URL do seu FORK)
+3. Lembre: Para clonar o seu repositório é necessário que seja com a sua url:
+<img src="https://i.ibb.co/8dvL9Vh/001-clone.png"> 
+4. Criar branch: `git checkout -b nome-da-sua-branch`
+5. Abra o projeto no VSCODE
 8. Renomeie a pasta `students_json` e o arquivo `nome_sobrenome.json` (renomeie o arquivo com seu nome e sobrenome)
 9. Preencher o json com as suas informações e salvar o arquivo
-10. `git add`
-11. `git commit -m "mensagem-sobre-o-que-foi-feito"`
-12. Subir suas alterações: `git push origin main`
+10. É hora de salvar e enviar as suas alterações.
+    Siga os comandos
+11. `git add`
+12. `git commit -m "mensagem-sobre-o-que-foi-feito"`
+13. Subir suas alterações: `git push origin nome-da-sua-branch`
+14. Agora é só entrar no seu github e fazer pull request

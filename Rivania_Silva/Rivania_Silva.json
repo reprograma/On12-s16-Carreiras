@@ -9,7 +9,7 @@
   "um_pouco_sobre_mim": [
 
     "Olá! Meu nome é Rivania, tenho 50 anos, sou casada e tenho duas filhas, sou formada em técnico de logística e enfermagem, a primeira dos meus irmaos a entrar numa faculdade",
-    "sou graduanda em pedagogia, fui apresentada a tecnologia quando entrei no { Reprograma } , um novo desafio que fez ampliar minha trajetória de aprendizado ",
+    "sou graduanda em Pedagogia, fui apresentada a tecnologia quando entrei no { Reprograma } , um novo desafio que fez ampliar minha trajetória de aprendizado ",
     "Entre uma conquista e outra separo um tempo  pra conhecer pessoas, ir a igreja, shopping, e me divirto com meus Pets, quatro gatos e uma linda cadela. Essa sou eu."
   ],
   "no_que_ja_trabalhei": [
@@ -36,7 +36,13 @@
     }
   ],
   "o_que_ja_estudei": [
-    {
+     {
+      "curso": "Back-End ",
+      "instituicao": "Accenture + Reprograma",
+      "periodo": "Mai/2021 a Set/2021",
+      "resumo_conhecimentos_aprendidos": "Bootcamp teve como ênfase programação Backend, com aprendizados em: Lógica de programação, Git e GitHub, Node.js,JavaScript, API "
+     },
+     {
       "curso": "Técnico de Logistica",
       "instituicao": "Escola Estadual Maximiano Accioly Campos",
       "periodo": "Jan 2014 a jun 2015",

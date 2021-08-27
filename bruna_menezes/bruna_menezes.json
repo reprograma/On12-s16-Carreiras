@@ -1,0 +1,74 @@
+{
+  "nome_completo": "Bruna Menezes de Oliveira",
+  "o_que_eu_quero": "Busco oportinidade para atuar como desenvolvedora Back-End, conseguindo aprimorar minhas habilidades e podendo colocar em prática todos os conhecimentos que adiquiri durante minha formação.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/bruna-menezes-8a5397210/",
+  "link_github": "https://github.com/Brunaolimene",
+  "email": "brunaolimene1@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou uma profissional desenvolvedora Back-End, formada pela Reprograma, em transição de carreira. Me sinto preparada para encarar novos desafios no mundo da TI.",
+    "Formada em Ciências Biológicas, professora, atraida pelo potencial da tecnolgia, vejo nessa área uma oportunidade para aperfeiçoar e desenvolver novas habilidades."
+ 
+    
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Professora polivalente",
+      "empresa": "Instituto São Marcos",
+      "periodo": "Mar/2018 - em vigência",
+      "atividades_desenvolvidas": "Lecionar, planejamento de trabalho, elaboração de proposta pedagógica.",
+      "link": null
+    }
+    
+   
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Bootcamp Back-End",
+      "instituicao": "{REPROGRAMA}",
+      "periodo": "Mai/2021 a Set/2021",
+      "resumo_conhecimentos_aprendidos": "Versionamento de código, variáveis, operadores, condicional, lógica aplicada, API, HTTP, Node S, CRUD, banco de dados, autenticação e autorização."
+    },
+    {
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "instituicao": "SENAC",
+      "periodo": "Jan/2015 a Dez/2015",
+      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+    }
+  
+
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "Node.js",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "WORD",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "EXEL",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 4
+    }
+    
+  
+  
+  ]
+}

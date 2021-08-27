@@ -50,12 +50,17 @@
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
-    {
+     {
+      "interesse_evento_curso": "Back End",
+      "instituicao": "Reprograma",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe do javascript, criacão de APIs e Banco de dados"
+    },
+     {
       "interesse_evento_curso": "Curso básico de informatica",
       "instituicao": "Prof Paulo",
       "resumo_conhecimentos_interesses": "Windows, word, "
-    }
-  ],
+    },
+  ]
   "no_que_me_destaco": [
     {
       "habilidade_ferramenta": "HTML",

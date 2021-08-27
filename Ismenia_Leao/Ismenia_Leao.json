@@ -1,6 +1,6 @@
 {
   "nome_completo": "Ismênia Lídia de Oliveira Leão",
-  "o_que_eu_quero": "Procuro oportunidade em Desenvolvimento Web",
+  "o_que_eu_quero": "Procuro oportunidade em Desenvolvimento Web Back end/Front end",
   "cidade_estado:": "São Paulo/SP",
   "link_linkedin": "https://www.linkedin.com/in/ismênia-leâo-a39942198/",
   "link_github": "https://github.com/ismenialeao",
@@ -75,7 +75,7 @@
     },
     {
       "habilidade_ferramenta": "JAVASCRIPT",
-      "pontuacao": 8
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "NODE JS",
@@ -87,11 +87,11 @@
     },
     {
       "habilidade_ferramenta": "BOOTSTRAP",
-      "pontuacao": 7
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "POSTAMAN",
-      "pontuacao": 7
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
@@ -99,11 +99,11 @@
     },
     {
       "habilidade_ferramenta": "ESPANHOL",
-      "pontuacao": 9
+      "pontuacao": 8
     },
     {
       "habilidade_ferramenta": "MONGO DB",
-      "pontuacao": 8
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "INGLES",

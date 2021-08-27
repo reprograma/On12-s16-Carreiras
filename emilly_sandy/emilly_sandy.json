@@ -1,0 +1,118 @@
+{
+  "nome_completo": "Emilly Sandy da Costa Santos",
+  "o_que_eu_quero": "Atuar na área de tecnologia, com ênfase em desenvolvimento de software,inteligência artificial e desenvolvimento web, aplicando conhecimentos desenvolvidos ao longo da graduação, atividades extracurriculares e cursos, podendo assim contribuir para o desenvolvimento da empresa em um ambiente dinâmico e com desafios diários",
+  "cidade_estado:": "Jaboatão dos Guararapes/PE",
+  "link_linkedin": "https://www.linkedin.com/in/emillysandy/",
+  "link_github": "https://github.com/emillysandy",
+  "email": "emillysandy05@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Pernambucana e estudante de engenharia elétrica eletrônica na Universidade de Pernambuco, apaixonada por tecnologia e pelo poder que ela tem em transformar a vida das pessoas",
+    "Sempre tive vontade de trabalhar com tecnologia e inovação, então desde que ingressei na universidade me dediquei a obter aprendizados além dos que são vistos em sala de aula através de eventos como: Django Girls, Cloud Girls, Rec'n Play e também por atividades voluntárias e competições, em cada uma dessas experiências minha vontade de fazer parte da construção de soluções foi crescendo ainda mais"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Software Developer intern",
+      "empresa": "ON2",
+      "periodo": "Jul/2021 a Atualmente",
+      "atividades_desenvolvidas": "Desenvolvimento e manutenção de sites utilizando as tecnologias: HTML,CSS,SASS,React e versionamento de código com Git e Github",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Desenvolvedora de Hardware Voluntária",
+      "empresa": "Projeto MonitorAr",
+      "periodo": "Mai/2020 a Ago/2020",
+      "atividades_desenvolvidas": "Projeto desenvolvido por professores e alunos para a construção de equipamentos de monitoramento de sinais vitais de pacientes com Covid internados na UTI.Atuando como responsável pela montagem e soldagem dos componentes na PCI",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Adviser no Projeto Miniempresa",
+      "empresa": "Junior Achievement",
+      "periodo": "Mai/2019 a Nov/2019",
+      "atividades_desenvolvidas": "Atuando como mentora de jovens do ensino médio da rede pública do Recife, onde o principal objetivo era acompanhá-los e orientá-los no desenvolvimento da própria miniemoresa, e incentivar o espírito empreendedor",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Desenvolvedora",
+      "empresa": "Equipe de Robótica Carranca",
+      "periodo": "Mai/2018 a Jan/2019",
+      "atividades_desenvolvidas": "Responsável na área de programação do projeto da PCB Maker, utilizando linguagem de programação C/C++ e arduino para desenvolvimento de uma máquina capaz de orientar o  usuário no passo a passo da construção de uma placa de circuito impressa",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Engenharia Elétrica Eletrônica",
+      "instituicao": "Universidade de Pernambuco",
+      "periodo": "Ago/2016 a Atualmente",
+      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+    },
+    {
+      "curso": "Bootcamp Back-End",
+      "instituicao": "Reprograma",
+      "periodo": "Mai/2021 a Set/2021",
+      "resumo_conhecimentos_aprendidos": "Curso voltado para desenvolvimento Back-End utilizando as seguintes tecnologias: Javascript, Node.js, MongoDB, e versionamento de código com Git e Github"
+    },
+    {
+      "curso": "Academia Salesforce",
+      "instituicao": "Accenture",
+      "periodo": "Jul/2019",
+      "resumo_conhecimentos_aprendidos": "Três semanas de imersão em desenvolvimento com Apex e Salesforce Admin"
+    },
+    {
+      "curso": "Curso de inglês",
+      "instituicao": "Prolinfo",
+      "periodo": "Ago/2017 a Dez/2018",
+      "resumo_conhecimentos_aprendidos": "Inglês intermediário"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "1º lugar Hack Grrrl 2021",
+      "instituicao": "2º edição da Hackathon com o tema: Ética em marketing para o público feminino",
+      "resumo_conhecimentos_interesses": "Foi desenvolvida uma inteligência artificial capaz de rastrear a reputação das marcas em relação a propagandas voltadas para o público feminino nas redes sociais, a partir das informações coletadas as empresas passariam por um filtro contendo alguns critérios e seriam classificadas através do nosso selo (Ada's Girls)"
+    },
+    {
+      "interesse_evento_curso": "1º lugar Startup Way 2020",
+      "instituicao": "Parceria entre o Sebrae e a Upe",
+      "resumo_conhecimentos_interesses": "Foi desenvolvida uma startup responsável por oferecer serviços de manutenção residencial feito apenas por mulheres e para mulheres, através de uma plataforma digital com o intuito de promover maior segurança para ambas as partes e também incentivar uma maior adesão das mulheres em atividades predominadas por homens"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MongoDB",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 6
+    }
+  ]
+}

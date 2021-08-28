@@ -1,0 +1,121 @@
+{
+  "nome_completo": "Ismênia Lídia de Oliveira Leão",
+  "o_que_eu_quero": "Procuro oportunidade em Desenvolvimento Web Back end/Front end",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/ismênia-leâo-a39942198/",
+  "link_github": "https://github.com/ismenialeao",
+  "email": "ismenialeao@gmail.com",
+  "um_pouco_sobre_mim": [
+     "Ola pessoal, sou a mamãe do Enrico de 3 anos e estou aqui para falar sobre a minha carreira.
+      Sou uma profissional da Engenharia Civil que se encantou pela área da tecnologia,  
+     atualmente realizando especialização em Gestão de Projetos pela USP, onde venho me aprofundando sobre abordagens
+     preditiva e adaptativa/ágil e combiná-las quando necessário, gestão das emoções e relacionamento interpessoal, dentre outras.
+     Venho me qualificando em programação através de estudos diários e como principais projetos, 
+     desenvolvi um carrinho de compras no Javascript com buscas produtos por categoria e desconto com cupons, criei um site de uma barbearia,
+     um formulário de login requerido posterior área de dados cadastrais, um API com o CRUD e
+     integração do servidor com Banco de Dados através do Mongo DB e Postman. Pelo meu Github é possivel encontrar todos os meus projetos ao longo da minha trajetoria de transição de carreira.
+     Como experiencia internacional realizei um intercambio de 30 dias na Irlanda, onde tive a breve oportunidade em conhecer outras culturas."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Engenheira Civil",
+      "empresa": "MA Construtora",
+      "periodo": "Jun/2019 a Mai/2020",
+      "atividades_desenvolvidas": "Engenheira responsável  tecnica pela elaboração de projetos estruturais,
+      supervisão de obras. Elaboração de tabelas de custo de obras no Excel para financiamentos da Caixa Econômica
+      Federal",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Estagio Profissional",
+      "empresa": "Construtora Esperança",
+      "periodo": "Jan/2017 a Jan/2018",
+      "atividades_desenvolvidas": "Atividades de estagio no setor da construção civil, com ênfase a drenagem pluvial e pavimentação em ruas urbanas e trecho da BR- 381 trecho João Monlevade- popularmente conhecida como (rodovia da morte). Leituras em projetos civis e arquitetônicos.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Gestão de Projetos",
+      "instituicao": "Universidade de São Paulo",
+      "periodo": "Set/2020 a Mai/2022",
+      "resumo_conhecimentos_aprendidos": "MBA voltado para TI"
+    },
+    {
+      "curso": "Engenharia Civil",
+      "instituicao": "Universidade do Estado de Minas Gerais",
+      "periodo": "Ago/2012 a Dez/2018",
+      "resumo_conhecimentos_aprendidos": "Graduação bacharelado "
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Back End",
+      "instituicao": "Reprograma",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe do javascript, criacão de APIs e Banco de dados"
+    },
+    {
+      "interesse_evento_curso": "Front End",
+      "instituicao": "ProgramaMaria",
+      "resumo_conhecimentos_interesses": "Curso introdutorio de HTML, CSS e Javascript"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "EXCEL",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "NODE JS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "POSTAMAN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "ESPANHOL",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MONGO DB",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "INGLES",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "POWER BI",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "SQL",
+      "pontuacao": 6
+    }
+  ]
+}

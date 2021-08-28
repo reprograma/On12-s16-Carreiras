@@ -1,0 +1,120 @@
+{
+  "nome_completo": "Larissa Maria Rodrigues da Silva",
+  "o_que_eu_quero": "Me formar em Análise e Desenvolvimento de Sistemas no IFPE, adquirir conhecimento para me tornar uma desenvolvedora fullstack e ter uma carreira sólida no mercado de trabalho",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/lmrs99/",
+  "link_github": "https://github.com/Larissamrs",
+  "email": "larissamrs99@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Olá, me chamo Larissa maria, sou universitária em Análise e Desenvolvimento de Sistemas no IFPE, sou uma eterna estudante na área de tecnologia no qual sou apaixonada",
+    "Meu irmão me apresentou a área de programação em 2018, desde então começou a busca insaciável de conhecimento no qual procurei fazer faculdade na área e cursos complementares para um dia me tornar desenvolvedora fullstack",
+    "Eu adoro andar de bicicleta na praia aos finais de semana, me transmite uma calma",
+    "Busco sempre dar o meu melhor em tudo que faço, aproveitando cada oportunidade que aparece em prol do meu conhecimento"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Estagiária Javascript NodeJS",
+      "empresa": "B2ML Sistemas",
+      "periodo": "Ago/2021 até o momento",
+      "atividades_desenvolvidas": "modelagem de banco de dados, criação de API's REST em NodeJS, PostgreSQL, suporte de acordo com a demanda",
+      "link": "https://b2ml.com.br/"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "instituicao": "IFPE - Instituto Federal de Pernambuco",
+      "periodo": "Dez/2019 até o momento",
+      "resumo_conhecimentos_aprendidos": "Curso Tecnólogo em Análise e Desenvolvimento de Sistemas"
+    },
+    {
+      "curso": "Bootcamp Decola Dev 2021",
+      "instituicao": "DIO - Digital Innovation One",
+      "periodo": "Dez/2020 a Jan/2021",
+      "resumo_conhecimentos_aprendidos": ".Net, linguagem C# até o desenvolvimento de aplicações e construição do código no GitHub usando uma API.NET integrada ao Mongo"
+    },
+    {
+      "curso": "Curso Online - eu ProgrAmo",
+      "instituicao": "PrograMaria",
+      "periodo": "Mar/2021 a Abr/2021",
+      "resumo_conhecimentos_aprendidos": "Lógica de programação, JavaScript, HTML e CSS."
+    },
+    {
+      "curso": "Desenvolvimento Back-end",
+      "instituicao": "Reprograma",
+      "periodo": "Mai/2021 a Set/2021",
+      "resumo_conhecimentos_aprendidos": "Lógica de programação, JavaScript, API REST e RESTFULL, Node.js, realizações de projetos práticos, Git e GitHub."
+    }
+    
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "curso": "Elementary English",
+      "instituicao": "SENAC Idiomas",
+      "periodo": "Jan/2019 a Mar/2019",
+      "resumo_conhecimentos_aprendidos": "Domínio do básico do idioma e poder comunicar necessidades simples e básicas"
+    },
+    {
+      "curso": "Introdução ao Arduino usando Tinkercad",
+      "instituicao": "IFPE - Instituto Federal de Pernambuco",
+      "periodo": "Nov/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Conceito de arduino, aprendizagem sobre a utilização de LEDs, sensores, buzzer, displays e servomotor para projetos iniciais com uso de eletrônica e programação"
+    },
+    {
+      "interesse_evento_curso": "Programa Start Tech",
+      "instituicao": "Gama Academy + Ambev Tech",
+      "periodo": "Agos/2021 a Set/2021",
+      "resumo_conhecimentos_interesses": "Curso de Front-end com introdução, lógica de programação, GIT, Javascript Básico, Javascript intermediário Typescript, React e GraphQl. Além do curso de Back-end com contéudos de NodeJs."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "JAVA",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "C++",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "NODEJS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MYSQL",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "INGLES",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "ESPANHOL",
+      "pontuacao": 7
+    }
+  ]
+}

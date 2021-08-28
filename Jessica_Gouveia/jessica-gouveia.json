@@ -1,0 +1,112 @@
+{
+    "nome_completo": "Jéssica de Sousa Gouveia",
+    "o_que_eu_quero": "Busco uma oportunidade como Desenvolvedora Back-end para colocar em prática todo conhecimento adquirido durante a formação. Quero aprimorar minhas habilidades em um ambiente colaborativo, estimulador, diverso, onde eu ajude a encontrar soluções para a sociedade através da tecnologia ",
+    "cidade_estado:": "São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/jessicas-gouveia/",
+    "link_github": "https://github.com/Jessica-gouveia",
+    "email": "jehsgouveia@gmail.com",
+    "um_pouco_sobre_mim": [
+      "Olá! Sou formada em Automação Industrial e atuo no ramo do varejo desde 2014, sempre fui apaixonada por tecnologia e sempre acreditei no poder que ela tem de transformar vidas. Por esse motivo, decidi fazer minha transição de carreira.",
+      "Através da minha experiência no varejo, tenho grande facilidade em entender o ambiente de negócio, gosto de conhecer como tudo funciona, de compartilhar meus conhecimentos e de desafios! ",
+      "Sou amante das artes marciais, amo cantar e conhecer museus. "
+    
+    ],
+    "no_que_ja_trabalhei": [
+      {
+        "cargo_funcao": "Líder de estoque",
+        "empresa": "Loja Belian Modas - BESNI",
+        "periodo": "Abr/2014 a Atual",
+        "atividades_desenvolvidas": "Gestão de recebimento e entrega de mercadorias; planejamento para alocação e realocação de produtos segundo a demanda de negócios; elaboração de planilhas e relatórios de produtos sem giro e apresentação para a supervisão e diretoria; atendimento ao cliente, coordenação de equipe ",
+        "link": null
+      },
+      {
+        "cargo_funcao": "Assistente Administrativa",
+        "empresa": "TNA - Câmara Nacional Arbitral",
+        "periodo": "Abr/2011 a Jul/2011",
+        "atividades_desenvolvidas": "Acompanhamento dos processos admnistrativos do escritório de advocacia e atendimento ao cliente, ",
+        "link": null
+      }
+    ],
+    "o_que_ja_estudei": [
+      {
+        "curso": "Desenvolvimento Back-End",
+        "instituicao": "Reprograma",
+        "periodo": "Mai/2021 a Set/2021",
+        "resumo_conhecimentos_aprendidos": "Lógica de programação | GIT e GitHub| Javascript | Node.js | Regras de negócio | Arquitetura MVC | Desenvolvimento de API | MongoDB | "
+      },
+      {
+        "curso": "Curso online eu progrAMO",
+        "instituicao": "Programaria",
+        "periodo": "Ago/2020",
+        "resumo_conhecimentos_aprendidos": "HTML | CSS | Javascript"
+      },
+
+      {
+        "curso": "Tecnologia em Automação Industrial",
+        "instituicao": "Universidade Metodista de São Paulo",
+        "periodo": "Ago/2010 a Dez/2013",
+        "resumo_conhecimentos_aprendidos": "Gestão da Produção | Robótica e Inteligência Artificial Aplicada à Automação | Algoritmo e Linguagem de Programação | Redes Industriais e Supervisão"
+      }
+
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "Phyton",
+        "instituicao": "Udemy",
+        "resumo_conhecimentos_interesses": "Aprender sobre a linguagem Phyton"
+      },
+      {
+        "interesse_evento_curso": "Curso ES6",
+        "instituicao": "Udemy",
+        "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      }
+    ],
+    "no_que_me_destaco": [
+      {
+        "habilidade_ferramenta": "HTML",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "CSS",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "SASS",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "JAVASCRIPT",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "NODE",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "MONGODB",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "RESPONSIVIDADE",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "INGLÊS",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "SAP",
+        "pontuacao": 6
+      }    
+      
+    ]
+  }
+  

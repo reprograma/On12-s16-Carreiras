@@ -1,0 +1,132 @@
+{
+  "nome_completo": "Héllyda Almeida de Barros Cavalcanti",
+  "o_que_eu_quero": "Meu objetivo é encontrar oportunidades na área de tecnologia e desenvolvimento back-end, trabalhando em projetos que me desafiem e me permitam crescer como programadora.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/hellydac/",
+  "link_github": "https://github.com/hellydac",
+  "email": "hellydac@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Normalmente me descrevo como internacionalista, produtora, empreendedora e fotógrafa, agora em transição de carreira para a área de tecnologia.",
+    "Estudei Relações Internacionais, trabalhei na área de comércio exterior e migrei para a área de fotografia e produção cultural. Atuei como produtora na área de economia criativa por mais de 10 anos. Em paralelo, empreendi abrindo uma cafeteria de cafés especiais - Café Lumière - então posso dizer que também fui gerente e barista. Trabalhando na Proa Cultural, tive a oportunidade de fazer a gestão da programação e conteúdo do Festival Rec'n'Play, do Porto Digital, onde tive acesso à diversidade da área de tecnologia. Em 2020 produzi eventos para o MINAs - Programa de Equidade de Gênero do Porto Digital, e estar em contato direto com eventos de tecnologia voltados para mulheres despertou o meu interesse pela área e em 2021, fui selecionada para o bootcamp da Reprograma na área de desenvolvimento back-end",
+    "Em todas as áreas que atuo/atuei o ponto em comum é a necessidade de fácil resolução de problemas e pensar soluções viáveis para problemas que surgem.",
+    "Gosto de trabalhar em equipe, em ambientes que buscam desenvolver o melhor dos profissionais. Amo também viajar, conhecer novas línguas, culturas, comidas e pessoas, fotografia, jogos e amigos."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Produtora",
+      "empresa": "Autônoma",
+      "periodo": "Ago/2020 - Atual",
+      "atividades_desenvolvidas": "Produção de eventos digitais (MINAs nas Escolas, Hack MINAs.Edu, Hack MINAs no Agreste), produção e pesquisa de produtos audiovisuais.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Gerente e Proprietária",
+      "empresa": "Café Lumière - Recife",
+      "periodo": "Ago/2015 a Ago/2020",
+      "atividades_desenvolvidas": "Responsável pela criação, obra e conceito do café, desenvolvimento de cardápio, treinamento de funcionários, compras, atendimento, pagamentos, gestão das redes sociais e todas as demais funções envolvidas na gestão do negócio.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Produtora audiovisual bilíngue",
+      "empresa": "Desvia Produções",
+      "periodo": "Out/2019 a Jun/2020",
+      "atividades_desenvolvidas": "Idealização, gestão, pesquisa e produção de projetos audiovisuais com co-produção internacional com a Desvia, gestão das redes sociais e site.",
+      "link": "https://desvia.com.br/"
+    },
+    {
+      "cargo_funcao": "Assistente de Produção",
+      "empresa": "Proa - Marketing Cultural e Projetos",
+      "periodo": "Set/2018 a Out/2019",
+      "atividades_desenvolvidas": "Idealização, gestão e produção de projetos de Marketing Cultural e ações na área de Economia Criativa e gestão de redes sociais.",
+      "link": "http://proacultural.com.br/"
+    },
+    {
+      "cargo_funcao": "Produtora",
+      "empresa": "Agira Filmes",
+      "periodo": "Fev/2012 a Ago/2018",
+      "atividades_desenvolvidas": "Idealização, gestão e produção de projetos e ações na área de audiovisual e economia criativa.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Analista de Importação",
+      "empresa": "Brasmundi - International Commerce",
+      "periodo": "Set/2010 a Fev/2012",
+      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "link": "https://www.brasmundi.com.br/"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Programação Back-End",
+      "instituicao": "Reprograma",
+      "periodo": "Abr/2021 a Set/2021",
+      "resumo_conhecimentos_aprendidos": "Lógica de programação, JavaScript, API, Node.js, Git e Github, Banco de dados e MongoDB."
+    },
+    {
+      "curso": "Carrera en Fotografía",
+      "instituicao": "ENFO - Escuela Nacional de Fotografía - Buenos Aires",
+      "periodo": "Set/2013 a Set/2015",
+      "resumo_conhecimentos_aprendidos": "Fotografia análogia e digital, recursos digitais, photoshop, loghtroom, estúdio."
+    },
+    {
+      "curso": "Bacharel em Relações Internacionais",
+      "instituicao": "Universidade Estácio de Sá - Faculdade Integrada do Recife",
+      "periodo": "Jan/2006 a Dez/2012",
+      "resumo_conhecimentos_aprendidos": "Fotografia análogia e digital, recursos digitais, photoshop, loghtroom, estúdio."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Inglês",
+      "instituicao": "Abbey College - Dublin",
+      "resumo_conhecimentos_interesses": "Curso de Inglês upper intermediate e Certificado em Business Administratio"
+    },
+    {
+      "interesse_evento_curso": "Espanhol",
+      "instituicao": "Senac e Universidad Palermo",
+      "resumo_conhecimentos_interesses": "Espanhol avançado"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "API",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "GIT E GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MONGOBD",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "NODE.JS",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "LIGHTROOM",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "ESPANHOL",
+      "pontuacao": 9
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+    "nome_completo": "Dannyeli Cristina de Cássia Silva",
+    "o_que_eu_quero": "Meu maior objetivo atualmente é ter a experiência como desenvolvedora. Sonho em mesclar a arquitetura com a tecnologia, as duas áreas conversam muito bem.",
+    "cidade_estado:": "Paulista/PE",
+    "link_linkedin": "https://www.linkedin.com/in/dannyelic/",
+    "link_github": "https://github.com/Dannyelic",
+    "email": "dannyelicristina.arq@gmail.com",
+    "um_pouco_sobre_mim": [
+      "Sou proativa e busco sempre aprender coisas novas, tanto na cozinha, quanto na música, e agora na tecnologia",
+      "Amo ler",
+      "Sou mãe de pet",
+      "Aprendi a tocar teclado e violão sozinha",
+      "Gosto de cantar"
+    ],
+    "no_que_ja_trabalhei": [
+        {
+        "cargo_funcao": "Auxiliar de Arquitetura",
+        "empresa": "Templo Central da IEADALPE",
+        "periodo": "Jun/2019 - Atualmente",
+        "atividades_desenvolvidas": "Desenvolvimento de Projetos e detalhamentos 2D , 3D e Instalações Hidrossanitárias.",
+        "link": null
+      },
+        {
+        "cargo_funcao": "Desenhista projetista",
+        "empresa": "Prefeitura de Igarassu",
+        "periodo": "Maio/2016 a Dez/2018",
+        "atividades_desenvolvidas": "Desenvolvimento de detalhamentos 2D, levantamentos in loco.",
+        "link": null
+      }
+    ],
+    "o_que_ja_estudei": [
+      {
+        "curso": "Back-End {reprograma}",
+        "instituicao": "Reprograma + Accenture",
+        "periodo": "Mai/2021 a Set/2021",
+        "resumo_conhecimentos_aprendidos": "Lógica de programação | regras de negócio | GIT e GITHUB | JavaScript | Node.js |POO| ARQUITETURA MVC | MongoDB | API Rest"
+      },
+      {
+        "curso": "Manutenção e Suporte para Informática ",
+        "instituicao": "IFPE",
+        "periodo": "Abril/2021 (Em andamento)",
+        "resumo_conhecimentos_aprendidos": "Arquitetura para computadores | Lógica de programação | Suporte ao usuário | Sistemas operacionais"
+      },
+      {
+        "curso": "Introdução ao Desenvolvimento web",
+        "instituicao": "Skill Lab",
+        "periodo": "Mar/2021 a Jun/2021",
+        "resumo_conhecimentos_aprendidos": "HTML 5 | CSS 3 | JavaScript"
+      },     
+      {
+        "curso": "Arquitetura e Urbanismo",
+        "instituicao": "UNINASSAU",
+        "periodo": "Fev/2012 a Dez/2018",
+        "resumo_conhecimentos_aprendidos": "Legislações urbanas | Projeto arquitetônico | Acústica Arquitetônica | Sistemas Estruturais | Desenvolvimento Pessoal e Trabalhabilidade"
+      }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "Intro. ao GIT e ao GITHUB",
+        "instituicao": "DIGITAL INNOVATION ONE",
+        "resumo_conhecimentos_interesses": "Conhecer como funciona a plataforma e os comandos mais utilizados"
+      },
+      {
+        "interesse_evento_curso": "Programação para internet com JavaScript",
+        "instituicao": "DIGITAL INNOVATION ONE",
+        "resumo_conhecimentos_interesses": "Conhecimento básico em JavaScript"
+      },
+      {
+        "interesse_evento_curso": "Lógica de programação essencial",
+        "instituicao": "DIGITAL INNOVATION ONE",
+        "resumo_conhecimentos_interesses": "Conhecimento básico em lógica de programação"
+      },
+      {
+        "interesse_evento_curso": "Reuso de águas servidas",
+        "instituicao": "INBEC",
+        "resumo_conhecimentos_interesses": "Entender conceitos de sistema de tratamento de água"
+      },
+      {
+        "interesse_evento_curso": "Projeto de combate à incêndios",
+        "instituicao": "INBEC",
+        "resumo_conhecimentos_interesses": "Projeto técnico de projeto de combate à incêndio"
+      },
+      {
+        "interesse_evento_curso": "NBR 15.575",
+        "instituicao": "INBEC",
+        "resumo_conhecimentos_interesses": "Conceitos sobre norma de desempenho das edificações"
+      }
+    ],
+    "no_que_me_destaco": [
+      {
+        "habilidade_ferramenta": "HTML",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "CSS",
+        "pontuacao": 5
+      },
+      {
+        "habilidade_ferramenta": "JAVASCRIPT",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "NODE",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "PHOTOSHOP",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "AUTOCAD",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "REVIT",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "SKETCHUP",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "ADOBE PREMIERE",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "INGLÊS",
+        "pontuacao": 5
+      }
+    ]
+  }

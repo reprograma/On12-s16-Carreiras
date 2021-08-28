@@ -1,0 +1,118 @@
+{
+  "nome_completo": "Larissa Vilela",
+  "o_que_eu_quero": "No momento desejo atuar na área de backend apesar de estudar tanto back como front.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/larissa-vilela-sobral/",
+  "link_github": "https://github.com/larissavilelasobral",
+  "email": "larissavilelasobral@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou uma pessoa que gosta de aprender, expressar ideias, ajudar além de gostar de fazer coisas que tenham um impacto positivo",
+    "Fiz durante 3 anos o curso de engenharia onde reencontrei meu amor pela programação durante as aulas de python então resolvi ir contudo nessa nova jornada!",
+    "Amo resolver problemas matemáticos e nas horas livres desenho e toco guitarra. ",
+    "Nessa nova jornada que é meio que um reencontro, tenho buscado me desenvolver para me tornar uma desenvolvedora jr full stack!"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Estagio",
+      "empresa": "Laboratório de Ciência e Tecnologia da Prefeitura do Recife ",
+      "periodo": "Jan/2020 a Dez/2020",
+      "atividades_desenvolvidas": "Elaboração e execução de projetos com foco educativo utilizando python, robotica com Arduino, microduino e integrado com eletronica maker utilizando impressora 3d e laser cut.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Atendimento",
+      "empresa": "Combos Burg",
+      "periodo": "Jan/2021 a Ago/2021",
+      "atividades_desenvolvidas": "Atendimento online do cliente atraveis das redes sociais como instagram, whatsapp e pela plataforma",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Back-end",
+      "instituicao": "Reprograma",
+      "periodo": "Mai/2021 a Set/2021",
+      "resumo_conhecimentos_aprendidos": "Javascript, Node.js, API, MongoDB, Postman, Robo 3T, Express "
+    },
+    {
+      "curso": "Front-end",
+      "instituicao": "Laboratoria",
+      "periodo": "Mai/2021 a Nov/2021",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento Front End, JavaScript, HTML, CSS, UX, React, Vue, Angular, Métodos Ágeis"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso Online Git e GitHub",
+      "instituicao": "CursoEmVideo",
+      "resumo_conhecimentos_interesses": "Entendimento sobre as funcionalidades básicas do Git e GitHub"
+    },
+    {
+      "interesse_evento_curso": "Curso Online Java Basico",
+      "instituicao": "CursoEmVideo",
+      "resumo_conhecimentos_interesses": "Funcionamento da linguagem, assim como suas sintaxes e estruturas"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "MongoDB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "Postman",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "jira/trello",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "PYTHON",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "JAVA",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "Robo 3T",
+      "pontuacao": 9
+    } 
+  ]
+}

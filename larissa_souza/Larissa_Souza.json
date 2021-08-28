@@ -1,0 +1,80 @@
+{
+    "nome_completo": "Larissa Célin de Castro Souza",
+    "o_que_eu_quero": "Eu espero poder integrar os conhecimentos que venho adquirindo em programação aos da minha graduação em Hotelaria, e poder proporcionar sempre uma melhor experiência de usuário no meio virtual.",
+    "cidade_estado:": "Recife/PE",
+    "link_linkedin": "https://www.linkedin.com/in/souzlari/",
+    "link_github": "https://github.com/souzlari",
+    "email": "larissaccsouza@gmail.com",
+    "um_pouco_sobre_mim": [
+      "Eu sou a Lari, estou com 24 anos e amo as Artes. Poesia e Literatura são onde me perco e me reencontro, é o meu refúgio em meio ao caos.",
+      "Talvez por essas paixões eu tenha me envolvido com o ensino do Inglês. Tudo começou quando uma professora me convidou para ajudá-la num Aulão Voluntário, foi incrível! Daí, depois disso, eu me inscrevi num voluntariado para ajudar alunos do Ensino Médio a aprenderem o Inglês; com isso a vontade de compartilhar o que eu sei com os outros só aumentou! Em 2016 virei uma teacher oficial e sou extremamente grata por essa experiência! Apesar de amar ensinar, eu estava sentido falta de ser aluna, aprender é o que eu faço de melhor, então decidi começar uma graduação num curso com disciplinas que me interessassem, optei por Hotelaria e acredito que essa foi uma das melhores escolhas que eu fiz! Agora em Março de 2021 eu fiz um curso introdutório à programação da SheCodes e fiquei muito feliz ao ver meu projeto final, me senti capaz de fazer algo que nunca me fora incentivado, já que sempre fui muito mais criativa que lógica; hoje eu vejo que uma habilidade não exclui a outra! Um belo dia recebi de um informativo para o bootcamp de back-end da {reprograma}, eu nem sabia o que era um bootcamp, mas me inscrevi e fui selecionada! Não vem sendo fácil, mas a cada linha de código escrita eu vejo que sou capaz e sei que eu quero ajudar a propiciar uma melhor experiência de usuário para todes!",
+      "Eu amo ir ao cinema e tomar um café com alguém que acabou de assistir ao mesmo filme que eu, sinto muita falta disso! Amo perambular pela cidade, conhecer lugares e pessoas novos, fotografar e pintar, tudo pra mim acaba servindo de referência, amo estar exercitando minha criatividade! Também curto muito podcasts e tudo o que eu faço é ouvindo música, amo ouvir outros pontos de vistas e conhecer novos artistas!"
+    ],
+    "no_que_ja_trabalhei": [
+      {
+        "cargo_funcao": "English Teacher",
+        "empresa": "Achieve Languages",
+        "periodo": "Fev/2016 ao presente momento",
+        "atividades_desenvolvidas": "Planejamento de aulas, materiais e avaliações; Execução de aulas e atividades (presenciais e online); Orientação sobre projetos a serem desenvolvidos pelos estudantes; Participação em diversos treinamentos; Feedback constante aos estudantes e/ou responsáveis; Construção de relacionamentos de confiança com estudantes, responsáveis e funcionários.",
+        "link": null
+      },
+      {
+        "cargo_funcao": "Monitora Voluntária",
+        "empresa": "US-Brazil Connect",
+        "periodo": "Jul/2015",
+        "atividades_desenvolvidas": "Planejei e executei jogos e atividades que ajudassem os estudantes a praticar o inglês; Organizei os cronogramas semanais; Coordenei os planos de aula diários; Auxiliei os estudantes no cumprimento de seus projetos semanais. Tudo isso junto aos meus companheiros de equipe.",
+        "link": null
+      }
+    ],
+    "o_que_ja_estudei": [
+      {
+        "curso": "Hotelaria",
+        "instituicao": "Universidade Federal de Pernambuco",
+        "periodo": "Ago/2019 ao presente momento",
+        "resumo_conhecimentos_aprendidos": "Hospitalidade e seus interstícios, Administração, Comportamento do Consumidor, Economia, etc."
+      }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "Introduction to Coding",
+        "instituicao": "SheCodes Workshops",
+        "resumo_conhecimentos_interesses": "HTML properties: h1, h2, p, div, strong, em, br, a, img, button; CSS properties: margin, padding, font-size, font-weight, color, background (with linear-gradient), line-height, box-shadow, border, transition; JavaScript functionalities: let, if, else, alert, prompt."
+      },
+      {
+        "interesse_evento_curso": "User Experience",
+        "instituicao": "FIAP",
+        "resumo_conhecimentos_interesses": "Usabilidade e Arquitetura da Informação; Usuário; Protótipos e Design; Pesquisas e Dados; Lean UX; Agile UX; Ferramentas."
+      }
+    ],
+    "no_que_me_destaco": [
+      {
+        "habilidade_ferramenta": "HTML",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "CSS",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "JAVASCRIPT",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "NODE",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "INGLÊS",
+        "pontuacao": 10
+      }
+    ]
+  }
+  

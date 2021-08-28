@@ -1,0 +1,123 @@
+{
+  "nome_completo": "Olga Mahin Barbosa de Oliveira",
+  "o_que_eu_quero": "Desenvolver minhas habilidades recém adquiridas na área de tecnologia",
+  "cidade_estado:": "Olinda/PE",
+  "link_linkedin": "https://www.linkedin.com/in/olga-mahin-20940a126/",
+  "link_github": "https://github.com/omahin",
+  "email": "olga.mahin@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou Olindense, apaixonada por Recife, e sou adepta do lifestyle praieiro",
+    "Uma profissional da área Turismo, em transição de carreira para área de tecnologia em Desenvolvimento Back-End com muitos anos de experiência no serviço de excelência  de atendimento ao público nacional e internacional e qualificação da cadeia turística.",
+    "Apaixonada por qualquer tipo de leitura, pois apesar de geograficamente estática me permite fazer viagens contantes"
+    ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Chefe de Operações",
+      "empresa": "Prefeitura da Cidade do Recife - Secretaria de Turismo, Esportes e Lazer",
+      "periodo": "Out/2019 a Dez/2020",
+      "atividades_desenvolvidas": "Gerência de Planejamento e Captação – Responsável pelos trâmites de formalização e gestão dos contratos e convênios vinculados a Secretaria de Turismo.",
+      "link": "https://visit.recife.br/"
+    },
+    {
+      "cargo_funcao": "Chefe de Informações Turísticas",
+      "empresa": "Prefeitura da Cidade do Recife - Secretaria de Turismo, Esportes e Lazer",
+      "periodo": "Fev/2017 a Fev/2019",
+      "atividades_desenvolvidas": "Responsável pela gestão do Setor de Informações Turísticas da Secretaria de Turismo, Esportes e Lazer. Gestão de pessoas, recursos e locais.",
+      "link": "https://visit.recife.br/"
+    },
+    {
+      "cargo_funcao": "Santander Cultural Recife",
+      "empresa": "Santander Cultural",
+      "periodo": "Mar/2011 a Fev/2013",
+      "atividades_desenvolvidas": "Realização do serviço de atendimento bilíngue ao turista nacional e internacional e ao público espontâneo e agendado, explicitando didaticamente os conteúdos das exposições de arte do Centro Cultural.",
+      "link": "https://www.santander.com.br/institucional-santander/cultura/programacao"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Especialização em Gestão de Projetos",
+      "instituicao": "Faculdade Frassinetti do Recife",
+      "periodo": "Jan/2016 a Fev/2018",
+      "resumo_conhecimentos_aprendidos": "Aplicação de conhecimento, de técnicas e de ferramentas voltadas a gestão de projetos"
+    },
+    {
+      "curso": "Gestão de Turismo",
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco",
+      "periodo": "Ago/2021",
+      "resumo_conhecimentos_aprendidos": "Aplicação de conhecimento, de técnicas e de ferramentas voltadas a gestão de turismo"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Conceitos Básicos em Javascript, HTML e CSS",
+      "instituicao": "PrograMaria",
+      "resumo_conhecimentos_interesses": "Conceitos Básicos em Javascript, HTML e CSS"
+    },
+    {
+      "interesse_evento_curso": "Imersão JavaScript do Zero",
+      "instituicao": "Cubos Academy",
+      "resumo_conhecimentos_interesses": "Imersão na linguagem Javascript"
+    },
+    {
+      "interesse_evento_curso": "Excel Avançado",
+      "instituicao": "Escola de Governo",
+      "resumo_conhecimentos_interesses": "Imersão em Excel avançado"
+    },
+    {
+      "interesse_evento_curso": "Elaboração de Termos de Referência de Licitações e Contratos Administrativos",
+      "instituicao": "Escola de Governo",
+      "resumo_conhecimentos_interesses": "Abordagem geral e prática na elaboração dos documentos"
+    },
+    {
+      "interesse_evento_curso": "Sistema Plataforma + Brasil - SICONV",
+      "instituicao": "Grupo Suria",
+      "resumo_conhecimentos_interesses": "Visão total e da Operacionalização do Sistema Plataforma + Brasil"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "NOSQL",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "MONGO",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "EXCEL",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "FRANCÊS",
+      "pontuacao": 7
+    }
+  ]
+}

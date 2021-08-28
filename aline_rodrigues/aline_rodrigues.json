@@ -1,0 +1,129 @@
+{
+  "nome_completo": "Aline Rodrigues da Silva",
+  "o_que_eu_quero": "Backend Developer",
+  "cidade_estado:": "Paulista/PE",
+  "link_linkedin": "https://www.linkedin.com/in/alinerodriguess/",
+  "link_github": "https://github.com/aline0310",
+  "email": "aline.rodriguess@hotmail.com",
+  "um_pouco_sobre_mim": [
+    "Profissional com 15 anos de mercado com experiências comprovadas nas áreas administrativas, logística e financeira",
+    ",atualmente em transição de carreira para tecnologia.",
+    "Desenvolvedora backend em formação pelo Reprograma.",
+    "Sou muito criativa, gosto muito de aprender coisas novas e estou sempre em busca de desenvolver novas habilidades."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Analista de Logística Pleno",
+      "empresa": "BCI Comercializadora S/A",
+      "periodo": "Dez/2019 a Atual",
+      "atividades_desenvolvidas": "Responsável pela gestão de pessoal e desenvolvimento de 13 pessoas, sendo 11 motoristas e 1 assistente administrativo. Planejamento financeiro mensal, suporte ao setor de departamento pessoal com apontamento de horas, pagamento de horas extras, programação de férias e processo de recrutamento e seleção. Acompanhamento de 10 veículos frota pesada referente aos itens de documentação, manutenções preventivas e/ou corretivas e desempenho. Crescimento no faturamento da transportadora em 50% e da carteira de clientes com a modalidade de frete terceiros em 90%."
+    },
+    {
+      "cargo_funcao": "Analista de Suprimentos Pleno",
+      "empresa": "Federal Distribuidora de Petróleo",
+      "periodo": "Jun/2017 a Jun/2019",
+      "atividades_desenvolvidas": "Compras de etanol para abastecimento de bases e terminais com insumos de alto impacto e produto para comercialização. Montagem de cargas. Realização de controles de despesa e medições de contratos. Cobrança de saldos financeiros em aberto com fornecedores. Pagamento de comissão de corretoras e acompanhamento de estoques de 09 bases pulverizadas pelo Brasil."
+      
+    },
+    {
+      "cargo_funcao": "Analista de Cobrança Jr.",
+      "empresa": "Total Distribuidora S/A",
+      "periodo": "Jun/2012 a Abr/2014",
+      "atividades_desenvolvidas": "Responsável pelo contas a pagar e a receber de uma carteira de 2.000 clientes ativos. Realização de análises, sempre com viés estratégico, para auxiliar na tomada de decisão da área Comercial. Desenvolvimento, análise e divulgação de KPI's. Gestão e acompanhamento da inadimplência da empresa. Conhecimento em consultas financeiras(Sintegra, Serasa e Receita) e cartórios. Negociações de valores e prazos de pagamento(Contratos de dívida ou judiciais). Atendimento ao cliente, mapeamento de processos. Implantação de melhorias. Responsável pelo projeto de triplicata automática com redução de 90% de tempo de elaboração de um processo de protesto de cliente."
+      
+    },
+    {
+      "cargo_funcao": "Analista de Transportes da frota própria",
+      "empresa": "Total Distribuidora S/A",
+      "periodo": "Jun/2012 a Abr/2014",
+      "atividades_desenvolvidas": "Responsável pela programação de manutenção preventiva e corretiva, acompanhamento de médias de consumo de combustível, desempenho do condutor, pneus, documentação e multas de toda frota leve e pesada da organização, ao todo com 70 veículos pulverizados pelo Brasil. Mapeamento de processos e acompanhamento de KPI's."
+      
+    },
+    {
+      "cargo_funcao": "Assistente de processos de transportes",
+      "empresa": "Total Distribuidora S/A",
+      "periodo": "Ago/2011 a Jun/2017",
+      "atividades_desenvolvidas": "Responsável pela programação de retirada de biocombustíveis das Usinas para abastecimento de 8 bases pulverizadas pelo Brasil, no modal rodoviário. Acompanhamento de estoques. Controle de insumos de alto impacto."     
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvimento Backend",
+      "instituicao": "Reprograma",
+      "periodo": "Mai/2021 a Set/2021",
+      "resumo_conhecimentos_aprendidos": "O Bootcamp tem como ênfase programação Backend, com aprendizados em: Lógica de programação, JavaScript, API, Node.js, Git e GitHub."
+    },
+    {
+      "curso": "MBA em Logístca",
+      "instituicao": "Faculdade de Boa Viagem",
+      "periodo": "Jan/2011 a Jul/2012",
+      "resumo_conhecimentos_aprendidos": "Custos logísticos, estoque e armazenamento, processos e gestão de pessoas."
+    },
+    {
+      "curso": "Administração de empresas",
+      "instituicao": "Faculdade Maurício de Nassau",
+      "periodo": "Jan/2006 a Jul/2010",
+      "resumo_conhecimentos_aprendidos": "Conhecimentos gerais sobre como fundar e gerir uma empresa além de abordargem sobre todos os setores de uma organização: contabilidade, marketing, financeiro, jurídico, logística e tecnologia."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Eu Programo",
+      "instituicao": "Programaria",
+      "resumo_conhecimentos_interesses": "Básico de Html, CSS e JavaScript"
+    },
+    {
+      "interesse_evento_curso": "Introdução ao Git e ao GitHub",
+      "instituicao": "Digital Inovation One",
+      "resumo_conhecimentos_interesses": "Etendimento sobre os primeiros passos nas ferramentas e comandos iniciais"
+    },
+    {
+      "interesse_evento_curso": "Intensivo de UI - Desing de Interface",
+      "instituicao": "Collab Desing",
+      "resumo_conhecimentos_interesses": "Etendimento sobre os desing de interface mobile e desktop, princípio de desing, gestalt, produção de conteúdo digital."
+    },
+    {
+      "interesse_evento_curso": "Intensivo de Desing Gráfico",
+      "instituicao": "Collab Desing",
+      "resumo_conhecimentos_interesses": "Etendimento sobre os desing, princípio de desing, gestalt, produção de conteúdo digital."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "JavaScript",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE.JS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "UI DESIGN",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 8
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "nome_completo": "Silvana Alves do Amaral",
+  "o_que_eu_quero": "Busco oportunidades de trabalhar como desenvolvedora Back-end",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "www.linkedin.com/in/silvanaamaralpe",
+  "link_github": "https://github.com/silvanaamaral",
+  "email": "silvanaamaralpe@gmail.com",
+  "um_pouco_sobre_mim": [
+  "Empreendedora, autoconfiante, otimista com coragem para aceitar riscos e um desejo de ser protagonista.",
+  "Fiquei a frente de um pequeno negócio de açaí. Em 2021 com a pandemia, tive que fechar o negócio e buscar por", 
+  "novas perspectivas. Foi nesse cenário, por incentivo de pessoas próximas, que despertou em mim o interesse de aprender sobre", 
+  "o mundo tecnológico. Isso me deixou muito segura, empoderada e cheia de fôlego. Foi um primeiro passo em uma nova direção.",
+  "Me apaixonei pela área, decidi voltar aos estudos e mergulhei com tudo, e agora quero poder desenvolver sonhos utilizando a tecnologia."
+    ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Microempreendedora",
+      "empresa": "Açaí Dona Sil",
+      "periodo": "Jan/2018 a Abril/2021",
+      "atividades_desenvolvidas": "Atendimentos e vendas",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Vendedora de serviços",
+      "empresa": "Claro",
+      "periodo": "Fev/2011 a Out/2012",
+      "atividades_desenvolvidas": "Vendas de serviços e auto atendimento.",
+      "link": null
+    } 
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Bootcamp Back-end",
+      "instituicao": "{Reprograma} - (conclusão 2021)",
+      "periodo": "Maio/2021 a Set/2021",
+      "resumo_conhecimentos_aprendidos": [ "A Reprograma possibilitou uma nova jornada na minha vida.",
+      "Foram 18 semanas intensas, onde aprendi Java Script, API, NodeJS, MongoDB, Postman, Git/GitHub, etc.",
+      "Desenvolvi novas habilidades, inclusive um pensamento com raciocínio lógico e a paixão de programar."
+      ]
+    },
+    {
+      "curso": "Análise de desenvolvimento de Sistemas",
+      "instituicao": "UNINASSAU",
+      "periodo": "2021 - 2022 ",
+      "resumo_conhecimentos_aprendidos": "Algumas das matérias cursadas: Lógica de programação algorítimica, Orientação de objetos, Lógica matemática" 
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Programação para Leigos e informática do básico ao avançado",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Metodologia: Redes, Internet, Protocolo HTTP, Cliente-Servidor, Banco de Dados e Sistemas Operacionais."
+    },
+    {
+      "interesse_evento_curso": "JavaScript ES6 essencial",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "API",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "NODEJS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "PYTHON",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "POSTMAN",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "LINUX",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "HTTP",
+      "pontuacao": 5
+    }  
+   
+  ]
+}

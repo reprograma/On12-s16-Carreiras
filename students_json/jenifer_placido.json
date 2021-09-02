@@ -1,0 +1,124 @@
+{
+    "nome_completo": "Jenifer Lima Placido Giangiardi",
+    "o_que_eu_quero": "Ser Desenvolvedora Full Stack",
+    "cidade_estado:": "Osasco/SP",
+    "link_linkedin": "https://www.linkedin.com/in/jenifer-pl%C3%A1cido-00b5611ab/",
+    "link_github": "https://github.com/jeniferplacido",
+    "email": "jenifer.sdti@gmail.com",
+    "um_pouco_sobre_mim": [
+      "Profissional com experiência em suporte ao cliente via telefone de impressoras e notebooks HP, professora de informática para todos os níveis e idades. Apaixonada por tecnologia e novos desafios",
+      "Estava em busca de uma oportunidade na área de Tecnologia como Desenvolvedora Full Stack Jr. Unindo a experiência de mercado à vivência no Bootcamp, consegui ingressar como desenvolvedora no Banco Itaú.",
+      "Amo pesquisar e solucionar problemas",
+      "Habilidade de comunicação, trabalho em equipe e atenção aos detalhes."
+    ],
+    "no_que_ja_trabalhei": [
+       {
+        "cargo_funcao": "Analista de Engenharia de Software Jr",
+        "empresa": "Banco Itau-Unibanco",
+        "periodo": "Jun/2021 a Data Atual",
+        "atividades_desenvolvidas": "Modelagem de Dados, Testes Unitários, Deploy na AWS e Atuação no Front End com framework Angular.",
+        "link": null
+      },
+      {
+        "cargo_funcao": "Professora de Informática Voluntária",
+        "empresa": "Acimo (Associação Comunitária Idosos Município Osasco)",
+        "periodo": "Jan/2020 a Data Atual",
+        "atividades_desenvolvidas": "Faço planejamento e preparo de aulas de informática básica voltada para idosos.",
+        "link": null
+      },
+      {
+        "cargo_funcao": "Desenvolvedora Front End Voluntária",
+        "empresa": "Portal Lacrei",
+        "periodo": "Jun/2021 a Data Atual",
+        "atividades_desenvolvidas": "Desenvolvimento Front End do Portal Lacrei, plataforma voltada para ajudar pessoas LGBTQIA+",
+        "link": null
+      }
+     
+    ],
+    "o_que_ja_estudei": [
+      {
+        "curso": "Desenvolvedora Back End",
+        "instituicao": "Reprograma",
+        "periodo": "Maio/2021 a Set/2021",
+        "resumo_conhecimentos_aprendidos": "Git & Github, Lógica de programação, API Rest, JavaScript, NodeJs, MongoDB"
+      },
+      {
+        "curso": "Desenvolvedora Web Java JR Full Stack",
+        "instituicao": "Generation Brasil",
+        "periodo": "Out/2020 a Fev/2021",
+        "resumo_conhecimentos_aprendidos": " Java, Node, HTML, CSS, MySQL, Javascript, Angular, Bootstrap"
+      }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "Curso online de Javascript",
+        "instituicao": "Udemy",
+        "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      },
+      {
+        "interesse_evento_curso": "Curso Java Básico",
+        "instituicao": "Alura",
+        "resumo_conhecimentos_interesses": "Entendimento sobre a linguagem de programação Java"
+      }
+    ],
+    "no_que_me_destaco": [
+      {
+        "habilidade_ferramenta": "Java",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "Angular",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "HTML",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "JAVASCRIPT",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "CSS",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "NODE",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "BOOTSTRAP",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "AWS",
+        "pontuacao": 5
+      },
+      {
+        "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+        "pontuacao": 5
+      },
+      {
+        "habilidade_ferramenta": "RESPONSIVIDADE",
+        "pontuacao": 9
+      },
+      
+      {
+        "habilidade_ferramenta": "MySQL",
+        "pontuacao": 3
+      },
+      {
+        "habilidade_ferramenta": "MongoDB",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "PHOTOSHOP",
+        "pontuacao": 7
+      }
+    ]
+  }
+  
